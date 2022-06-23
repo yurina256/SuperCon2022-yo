@@ -1,0 +1,7 @@
+.vscode/*
+SFMT-src-1.5.1/*
+compile_gene_sc1.sh
+gene*
+input*
+sc1.h
+sc1_problem.h
